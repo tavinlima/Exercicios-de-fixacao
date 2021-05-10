@@ -1,0 +1,16 @@
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\bin\Debug\net5.0\Atividade_7.exe
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\bin\Debug\net5.0\Atividade_7.deps.json
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\bin\Debug\net5.0\Atividade_7.runtimeconfig.json
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\bin\Debug\net5.0\Atividade_7.runtimeconfig.dev.json
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\bin\Debug\net5.0\Atividade_7.dll
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\bin\Debug\net5.0\ref\Atividade_7.dll
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\bin\Debug\net5.0\Atividade_7.pdb
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\obj\Debug\net5.0\Atividade_7.csprojAssemblyReference.cache
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\obj\Debug\net5.0\Atividade_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\obj\Debug\net5.0\Atividade_7.AssemblyInfoInputs.cache
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\obj\Debug\net5.0\Atividade_7.AssemblyInfo.cs
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\obj\Debug\net5.0\Atividade_7.csproj.CoreCompileInputs.cache
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\obj\Debug\net5.0\Atividade_7.dll
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\obj\Debug\net5.0\ref\Atividade_7.dll
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\obj\Debug\net5.0\Atividade_7.pdb
+C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_7\obj\Debug\net5.0\Atividade_7.genruntimeconfig.cache
