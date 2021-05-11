@@ -7,16 +7,16 @@ namespace Atividade_6
         static void Main(string[] args)
         {
             string[] nome = new string [10];
-            Console.WriteLine("Insira 10 nomes a seguir: ");
+            Console.WriteLine($"Insira {nome.Length} nomes a seguir: ");
 
-            for (var i = 0; i < 10; i++)
+            for (var i = 0; i < nome.Length; i++)
             {
                 Console.WriteLine($"Insira o {i + 1}º nome");
                 nome[i] = Console.ReadLine() .ToLower();
             }
 
             Console.WriteLine("Digite o nome que deseja procurar: ");
-            string busca  = Console.ReadLine();
+            string busca = Console.ReadLine();
             bool achei = false;
             
 
@@ -26,7 +26,8 @@ namespace Atividade_6
                     achei = true;
                 }
             }
-            if (achei == true){
+            //if (achei == true)
+            if (achei){
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("\n ACHEI!!!" + "\n");
                 Console.ResetColor();

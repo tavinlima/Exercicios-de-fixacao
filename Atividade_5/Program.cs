@@ -7,24 +7,18 @@ namespace Atividade_5
         static void Main(string[] args)
         {
             Console.WriteLine("Tabuada de 1 a 10:");
-            int numero = 1;
-            bool check  = true;
+            // int numero = 1;
 
-            for (var i = 0; check == true; i++)
+            for (var i = 1; i < 11; i++)
             {
-                if(i == 11){
-                    if(numero <=9)
-                    {
-                        numero++;
-                        i=1;
-                    }
-                }
-                int resposta = numero * i;
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine($"\n Tabuada do {i}" + "\n");
+                Console.ResetColor();
 
-                Console.WriteLine($"Tabuada: {numero} * {i} = {resposta}");
-
-                if(resposta == 100){
-                    check = false;
+                for (var c = 1; c < 11; c++)
+                {
+                int resposta = i * c;
+                Console.WriteLine($"Tabuada: {i} x {c} = {resposta}");
                 }
             }
         }

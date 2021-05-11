@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silvana\\Desktop\\ListaExerciciosRepeticao\\Atividade_5\\Atividade_5.csproj",
+      "projectUniqueName": "C:\\Users\\Silvana\\Desktop\\Sprint - Backend\\ListaExerciciosRepeticao\\Atividade_5\\Atividade_5.csproj",
       "projectName": "Atividade_5",
-      "projectPath": "C:\\Users\\Silvana\\Desktop\\ListaExerciciosRepeticao\\Atividade_5\\Atividade_5.csproj",
+      "projectPath": "C:\\Users\\Silvana\\Desktop\\Sprint - Backend\\ListaExerciciosRepeticao\\Atividade_5\\Atividade_5.csproj",
       "packagesPath": "C:\\Users\\Silvana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silvana\\Desktop\\ListaExerciciosRepeticao\\Atividade_5\\obj\\",
+      "outputPath": "C:\\Users\\Silvana\\Desktop\\Sprint - Backend\\ListaExerciciosRepeticao\\Atividade_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Silvana\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -14,3 +14,19 @@ C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\A
 C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\ref\Atividade_5.dll
 C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\Atividade_5.pdb
 C:\Users\Silvana\Desktop\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\Atividade_5.genruntimeconfig.cache
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\bin\Debug\net5.0\Atividade_5.exe
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\bin\Debug\net5.0\Atividade_5.deps.json
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\bin\Debug\net5.0\Atividade_5.runtimeconfig.json
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\bin\Debug\net5.0\Atividade_5.runtimeconfig.dev.json
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\bin\Debug\net5.0\Atividade_5.dll
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\bin\Debug\net5.0\ref\Atividade_5.dll
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\bin\Debug\net5.0\Atividade_5.pdb
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\Atividade_5.csprojAssemblyReference.cache
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\Atividade_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\Atividade_5.AssemblyInfoInputs.cache
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\Atividade_5.AssemblyInfo.cs
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\Atividade_5.csproj.CoreCompileInputs.cache
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\Atividade_5.dll
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\ref\Atividade_5.dll
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\Atividade_5.pdb
+C:\Users\Silvana\Desktop\Sprint - Backend\ListaExerciciosRepeticao\Atividade_5\obj\Debug\net5.0\Atividade_5.genruntimeconfig.cache

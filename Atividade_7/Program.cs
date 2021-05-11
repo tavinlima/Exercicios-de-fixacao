@@ -7,18 +7,18 @@ namespace Atividade_7
         static void Main(string[] args)
         {
             int[] valores = new int [15];
-            Console.WriteLine("Insira 15 números: ");
+            Console.WriteLine($"Insira {valores.Length} números: ");
 
-            for (var i = 0; i < 15; i++)
+            for (var i = 0; i < valores.Length; i++)
             {
                 Console.WriteLine($"Insira o {i + 1}º número: ");
                 valores[i] = int.Parse(Console.ReadLine());
             }
 
-            for (var i = 14; i < 15; i--)
+            for (var i = (valores.Length - 1); i <= 0; i--)
             {
                 Console.WriteLine($"Em ordem inversa:");
-                Console.WriteLine(valores [i]);
+                Console.WriteLine($"\n {valores [i]}");
             }
         }
     }

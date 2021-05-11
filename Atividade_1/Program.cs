@@ -11,7 +11,7 @@ namespace Atividade_1
 
             int anoAtual = DateTime.Now.Year;
 
-            if(anoAtual - nascimento <= 16){
+            if(anoAtual - nascimento < 16){
                 Console.WriteLine("Não pode votar esse ano :(");
             } 
             else{
