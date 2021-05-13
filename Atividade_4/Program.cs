@@ -21,7 +21,7 @@ namespace Atividade_4
             foreach (var item in valores) Console.WriteLine(item);
 
             Console.WriteLine("O menor número é " + valores[0]);
-		    Console.WriteLine("O menor número é " + valores[(valores.Length - 1)]);
+		    Console.WriteLine("O maior número é " + valores[(valores.Length - 1)]);
         }
     }
 }
